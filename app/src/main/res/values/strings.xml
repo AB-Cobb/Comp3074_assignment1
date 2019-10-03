@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment1-AndrewCobb</string>
+    <string name="equation">27F+58W+9V = </string>
+    <string name="f">F = </string>
+    <string name="w">W = </string>
+    <string name="v">V = </string>
+    <string name="zero">0</string>
+</resources>
